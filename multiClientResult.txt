@@ -1,0 +1,94 @@
+201
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="http://www.w3.org/2005/Atom">
+  <title>feed </title>
+  <subtitle>for demonstration purposes</subtitle>
+  <link>www.cs.adelaide.edu.au</link>
+  <updated>1</updated>
+  <author>Santa Claus</author>
+  <id>creator1</id>
+  <entry>
+    <title>Nick sets assignment</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:30:02Z</updated>
+    <summary>this is creator1 section 1</summary>
+  </entry>
+  <entry>
+    <title>second feed entry</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/14ds2s1</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:29:02Z</updated>
+    <summary>this is creator1 section 2</summary>
+  </entry>
+  <entry>
+    <title>third feed entry</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/14ds2s1</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:29:02Z</updated>
+    <summary>this is creator1 section 3</summary>
+  </entry>
+</feed>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="http://www.w3.org/2005/Atom">
+  <title>feed </title>
+  <subtitle>for demonstration purposes</subtitle>
+  <link>www.cs.adelaide.edu.au</link>
+  <updated>1</updated>
+  <author>Santa Claus</author>
+  <id>creator1</id>
+  <entry>
+    <title>Nick sets assignment</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:30:02Z</updated>
+    <summary>this is creator1 section 1</summary>
+  </entry>
+  <entry>
+    <title>second feed entry</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/14ds2s1</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:29:02Z</updated>
+    <summary>this is creator1 section 2</summary>
+  </entry>
+  <entry>
+    <title>third feed entry</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/14ds2s1</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:29:02Z</updated>
+    <summary>this is creator1 section 3</summary>
+  </entry>
+</feed>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="http://www.w3.org/2005/Atom">
+  <title>feed </title>
+  <subtitle>for demonstration purposes</subtitle>
+  <link>www.cs.adelaide.edu.au</link>
+  <updated>1</updated>
+  <author>Santa Claus</author>
+  <id>creator1</id>
+  <entry>
+    <title>Nick sets assignment</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:30:02Z</updated>
+    <summary>this is creator1 section 1</summary>
+  </entry>
+  <entry>
+    <title>second feed entry</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/14ds2s1</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:29:02Z</updated>
+    <summary>this is creator1 section 2</summary>
+  </entry>
+  <entry>
+    <title>third feed entry</title>
+    <link>www.cs.adelaide.edu.au/users/third/ds/14ds2s1</link>
+    <id>creator1</id>
+    <updated>2015-08-07T18:29:02Z</updated>
+    <summary>this is creator1 section 3</summary>
+  </entry>
+</feed>
+

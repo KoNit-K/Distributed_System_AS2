@@ -1,0 +1,23 @@
+title:feed1
+subtitle:for demonstration purposes
+link:www.cs.adelaide.edu.au
+updated:2
+author:Santa Claus
+id:creator2
+entry
+title:Nick sets assignment
+link:www.cs.adelaide.edu.au/users/third/ds/
+id:creator2
+updated:2015-08-07T18:30:02Z
+summary:this is feed 2 section 1.
+entry
+title:second feed 
+link:www.cs.adelaide.edu.au/users/third/ds/14ds2s1
+id:creator2
+updated:2015-08-07T18:29:02Z
+summary:this is feed 2 section 2.
+title:third feed entry
+link:www.cs.adelaide.edu.au/users/third/ds/14ds2s1
+id:creator2
+updated:2015-08-07T18:29:02Z
+summary:this is feed 2 section 3.
